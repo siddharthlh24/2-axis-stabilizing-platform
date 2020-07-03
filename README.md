@@ -8,4 +8,4 @@ The aim is to create a self stabilizing platform which takes the instantenous ch
 4) Wires, breadboard and support structures <br>
 
 # Block Diagram
-![](media/block_diag.PNG)<br>
+![](media/block_diag.PNG) <br>
