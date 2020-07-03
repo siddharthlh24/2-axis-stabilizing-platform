@@ -11,7 +11,7 @@ The aim is to create a self stabilizing platform which takes the instantenous ch
 ![](media/block_diag.PNG) <br>
 
 # Angle measurements
-![](media/angle_measure.PNG) <br>
+![](media/measure_angles.PNG) <br>
 
 # Model images
 ![](media/1.jpg) <br>
