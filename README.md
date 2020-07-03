@@ -9,3 +9,8 @@ The aim is to create a self stabilizing platform which takes the instantenous ch
 
 # Block Diagram
 ![](media/block_diag.PNG) <br>
+
+# Model images
+![](media/1.jpg) <br>
+![](media/2.jpg) <br>
+![](media/3.jpg) <br>
