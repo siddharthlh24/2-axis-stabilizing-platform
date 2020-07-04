@@ -10,7 +10,7 @@ The aim is to create a self stabilizing platform which takes the instantenous ch
 # Block Diagram
 ![](media/block_diag.PNG) <br>
 
-# Angle measurements
+# Angle measurements in terms of acceleration (Ax,Ay,Az)
 ![](media/measure_angles.PNG) <br>
 
 # Model images
