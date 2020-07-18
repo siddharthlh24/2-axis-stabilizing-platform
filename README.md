@@ -1,5 +1,5 @@
 # 2-axis-stabilizing-platform
-The aim is to create a self stabilizing platform which takes the instantenous change in angle of the platform as an input and produces an opposing torque to cancel its effect and hence stabilizing the platform on two axes using a PID controller feedback system.
+The aim is to create a self stabilizing platform which takes the instantenous change in angle of the platform as an input and produces an opposing torque to cancel its effect and hence stabilizing the platform on two axes using a PID controller feedback system. The current system only uses the accelerometer and not the gyro. EKF is a possibility in your implementation.
 
 # Components
 1) Raspberry Pi  (https://pypi.org/project/simple-pid/ for pid controller library ) <br>
